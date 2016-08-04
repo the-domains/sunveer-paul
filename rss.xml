@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sunveer - Paul]]></title>
         <description><![CDATA[Sunveer - Paul]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sunveer-paul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 00:10:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 00:13:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sunveer-paul/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be598236-96dc-4c96-8158-c14c9b077f43.jpg">]]></description>
+            <link>http://www.cnn.com/2016/05/15/politics/donald-trump-vladimir-putin-mural/index.html</link>
+            <guid isPermaLink="false">ef1aa693-a9fe-4b37-ac44-854a0a2541b0</guid>
+            <pubDate>Thu, 04 Aug 2016 00:13:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is Me, Sunveer-Paul at 4]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a440d17a-ff80-4a2b-8c35-7ceaa1a34d59.jpg">]]></description>
-            <link>undefinedthis-is-me-sunveer-paul-at-4/index.html</link>
+            <link>https://thegrid.ai/sunveer-paul/this-is-me-sunveer-paul-at-4/index.html</link>
             <guid isPermaLink="false">6e46c920-cd6e-4467-95ee-25412ec449ca</guid>
             <pubDate>Thu, 04 Aug 2016 00:10:13 GMT</pubDate>
         </item>
